@@ -1580,7 +1580,7 @@ C	0	1	0	0	0	0	0	0	0	0	0	0	3	0
           <int>4</int>
         </entry>
       </elementAttributes>
-      <pos x="-3880" y="240"/>
+      <pos x="-3920" y="240"/>
     </visualElement>
     <visualElement>
       <elementName>D_FF</elementName>
@@ -1622,7 +1622,7 @@ CounterMax 1</string>
           <string>1,1,1,1</string>
         </entry>
       </elementAttributes>
-      <pos x="-3800" y="240"/>
+      <pos x="-3840" y="240"/>
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -1643,7 +1643,7 @@ CounterMax 1</string>
           <int>4</int>
         </entry>
       </elementAttributes>
-      <pos x="-3680" y="220"/>
+      <pos x="-3720" y="220"/>
     </visualElement>
     <visualElement>
       <elementName>Counter</elementName>
@@ -1654,11 +1654,6 @@ CounterMax 1</string>
         </entry>
       </elementAttributes>
       <pos x="-2360" y="340"/>
-    </visualElement>
-    <visualElement>
-      <elementName>D_FF</elementName>
-      <elementAttributes/>
-      <pos x="-2040" y="360"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -1784,28 +1779,28 @@ CounterMax 1</string>
       <p2 x="-2060" y="640"/>
     </wire>
     <wire>
-      <p1 x="-3780" y="260"/>
-      <p2 x="-3700" y="260"/>
+      <p1 x="-3820" y="260"/>
+      <p2 x="-3740" y="260"/>
     </wire>
     <wire>
-      <p1 x="-3600" y="260"/>
-      <p2 x="-3560" y="260"/>
+      <p1 x="-3640" y="260"/>
+      <p2 x="-3620" y="260"/>
     </wire>
     <wire>
-      <p1 x="-3920" y="260"/>
-      <p2 x="-3880" y="260"/>
-    </wire>
-    <wire>
-      <p1 x="-3500" y="260"/>
-      <p2 x="-3480" y="260"/>
+      <p1 x="-3960" y="260"/>
+      <p2 x="-3920" y="260"/>
     </wire>
     <wire>
       <p1 x="-2860" y="260"/>
       <p2 x="-2800" y="260"/>
     </wire>
     <wire>
-      <p1 x="-3480" y="260"/>
+      <p1 x="-3500" y="260"/>
       <p2 x="-3460" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="-3620" y="260"/>
+      <p2 x="-3560" y="260"/>
     </wire>
     <wire>
       <p1 x="-3160" y="260"/>
@@ -1868,16 +1863,16 @@ CounterMax 1</string>
       <p2 x="-640" y="-280"/>
     </wire>
     <wire>
-      <p1 x="-3780" y="280"/>
-      <p2 x="-3680" y="280"/>
+      <p1 x="-3820" y="280"/>
+      <p2 x="-3720" y="280"/>
     </wire>
     <wire>
       <p1 x="-3580" y="280"/>
       <p2 x="-3560" y="280"/>
     </wire>
     <wire>
-      <p1 x="-3900" y="280"/>
-      <p2 x="-3880" y="280"/>
+      <p1 x="-3940" y="280"/>
+      <p2 x="-3920" y="280"/>
     </wire>
     <wire>
       <p1 x="-1260" y="-540"/>
@@ -1957,7 +1952,7 @@ CounterMax 1</string>
     </wire>
     <wire>
       <p1 x="-2380" y="420"/>
-      <p2 x="-1960" y="420"/>
+      <p2 x="-2060" y="420"/>
     </wire>
     <wire>
       <p1 x="-3080" y="-40"/>
@@ -1976,8 +1971,8 @@ CounterMax 1</string>
       <p2 x="-1820" y="40"/>
     </wire>
     <wire>
-      <p1 x="-3780" y="300"/>
-      <p2 x="-3700" y="300"/>
+      <p1 x="-3820" y="300"/>
+      <p2 x="-3740" y="300"/>
     </wire>
     <wire>
       <p1 x="-4140" y="560"/>
@@ -2084,16 +2079,16 @@ CounterMax 1</string>
       <p2 x="-600" y="960"/>
     </wire>
     <wire>
-      <p1 x="-3900" y="320"/>
-      <p2 x="-3480" y="320"/>
-    </wire>
-    <wire>
       <p1 x="-2200" y="320"/>
       <p2 x="-2180" y="320"/>
     </wire>
     <wire>
       <p1 x="-2600" y="320"/>
       <p2 x="-2540" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="-3940" y="320"/>
+      <p2 x="-3620" y="320"/>
     </wire>
     <wire>
       <p1 x="-2160" y="-580"/>
@@ -2149,7 +2144,7 @@ CounterMax 1</string>
     </wire>
     <wire>
       <p1 x="-2100" y="580"/>
-      <p2 x="-1940" y="580"/>
+      <p2 x="-1920" y="580"/>
     </wire>
     <wire>
       <p1 x="-2220" y="-200"/>
@@ -2173,10 +2168,6 @@ CounterMax 1</string>
     </wire>
     <wire>
       <p1 x="-2400" y="460"/>
-      <p2 x="-2060" y="460"/>
-    </wire>
-    <wire>
-      <p1 x="-2060" y="460"/>
       <p2 x="-2000" y="460"/>
     </wire>
     <wire>
@@ -2324,8 +2315,8 @@ CounterMax 1</string>
       <p2 x="-2200" y="-220"/>
     </wire>
     <wire>
-      <p1 x="-3720" y="220"/>
-      <p2 x="-3700" y="220"/>
+      <p1 x="-3760" y="220"/>
+      <p2 x="-3740" y="220"/>
     </wire>
     <wire>
       <p1 x="-4420" y="480"/>
@@ -2376,16 +2367,12 @@ CounterMax 1</string>
       <p2 x="-600" y="1000"/>
     </wire>
     <wire>
-      <p1 x="-1980" y="360"/>
-      <p2 x="-1960" y="360"/>
-    </wire>
-    <wire>
       <p1 x="-2260" y="360"/>
       <p2 x="-2180" y="360"/>
     </wire>
     <wire>
       <p1 x="-2080" y="360"/>
-      <p2 x="-2040" y="360"/>
+      <p2 x="-2060" y="360"/>
     </wire>
     <wire>
       <p1 x="-2400" y="360"/>
@@ -2396,8 +2383,8 @@ CounterMax 1</string>
       <p2 x="-2560" y="360"/>
     </wire>
     <wire>
-      <p1 x="-1960" y="360"/>
-      <p2 x="-1940" y="360"/>
+      <p1 x="-2060" y="360"/>
+      <p2 x="-1920" y="360"/>
     </wire>
     <wire>
       <p1 x="-2160" y="-620"/>
@@ -2452,20 +2439,20 @@ CounterMax 1</string>
       <p2 x="-4000" y="620"/>
     </wire>
     <wire>
-      <p1 x="-3820" y="240"/>
-      <p2 x="-3800" y="240"/>
+      <p1 x="-3860" y="240"/>
+      <p2 x="-3840" y="240"/>
     </wire>
     <wire>
-      <p1 x="-3700" y="240"/>
-      <p2 x="-3680" y="240"/>
-    </wire>
-    <wire>
-      <p1 x="-3780" y="240"/>
+      <p1 x="-3740" y="240"/>
       <p2 x="-3720" y="240"/>
     </wire>
     <wire>
+      <p1 x="-3820" y="240"/>
+      <p2 x="-3760" y="240"/>
+    </wire>
+    <wire>
       <p1 x="-4700" y="240"/>
-      <p2 x="-3880" y="240"/>
+      <p2 x="-3920" y="240"/>
     </wire>
     <wire>
       <p1 x="-1260" y="-500"/>
@@ -2476,7 +2463,7 @@ CounterMax 1</string>
       <p2 x="-1160" y="-500"/>
     </wire>
     <wire>
-      <p1 x="-3920" y="500"/>
+      <p1 x="-3960" y="500"/>
       <p2 x="-3580" y="500"/>
     </wire>
     <wire>
@@ -2502,10 +2489,6 @@ CounterMax 1</string>
     <wire>
       <p1 x="-2260" y="380"/>
       <p2 x="-2160" y="380"/>
-    </wire>
-    <wire>
-      <p1 x="-2060" y="380"/>
-      <p2 x="-2040" y="380"/>
     </wire>
     <wire>
       <p1 x="-2380" y="380"/>
@@ -2572,12 +2555,8 @@ CounterMax 1</string>
       <p2 x="-3720" y="820"/>
     </wire>
     <wire>
-      <p1 x="-3720" y="220"/>
-      <p2 x="-3720" y="240"/>
-    </wire>
-    <wire>
-      <p1 x="-2060" y="380"/>
-      <p2 x="-2060" y="460"/>
+      <p1 x="-2060" y="360"/>
+      <p2 x="-2060" y="420"/>
     </wire>
     <wire>
       <p1 x="-2320" y="-20"/>
@@ -2636,10 +2615,6 @@ CounterMax 1</string>
       <p2 x="-1940" y="-140"/>
     </wire>
     <wire>
-      <p1 x="-1940" y="360"/>
-      <p2 x="-1940" y="580"/>
-    </wire>
-    <wire>
       <p1 x="-2840" y="-260"/>
       <p2 x="-2840" y="-100"/>
     </wire>
@@ -2664,8 +2639,8 @@ CounterMax 1</string>
       <p2 x="-4120" y="820"/>
     </wire>
     <wire>
-      <p1 x="-3480" y="260"/>
-      <p2 x="-3480" y="320"/>
+      <p1 x="-3740" y="240"/>
+      <p2 x="-3740" y="260"/>
     </wire>
     <wire>
       <p1 x="-2080" y="-540"/>
@@ -2712,6 +2687,10 @@ CounterMax 1</string>
       <p2 x="-3620" y="560"/>
     </wire>
     <wire>
+      <p1 x="-3620" y="260"/>
+      <p2 x="-3620" y="320"/>
+    </wire>
+    <wire>
       <p1 x="-2600" y="-260"/>
       <p2 x="-2600" y="-160"/>
     </wire>
@@ -2736,16 +2715,20 @@ CounterMax 1</string>
       <p2 x="-1960" y="-520"/>
     </wire>
     <wire>
-      <p1 x="-1960" y="360"/>
-      <p2 x="-1960" y="420"/>
-    </wire>
-    <wire>
       <p1 x="-2220" y="-700"/>
       <p2 x="-2220" y="-640"/>
     </wire>
     <wire>
       <p1 x="-940" y="-380"/>
       <p2 x="-940" y="-160"/>
+    </wire>
+    <wire>
+      <p1 x="-3760" y="220"/>
+      <p2 x="-3760" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="-3760" y="580"/>
+      <p2 x="-3760" y="720"/>
     </wire>
     <wire>
       <p1 x="-1840" y="-540"/>
@@ -2758,10 +2741,6 @@ CounterMax 1</string>
     <wire>
       <p1 x="-1200" y="640"/>
       <p2 x="-1200" y="740"/>
-    </wire>
-    <wire>
-      <p1 x="-3760" y="580"/>
-      <p2 x="-3760" y="720"/>
     </wire>
     <wire>
       <p1 x="-2100" y="-460"/>
@@ -2782,10 +2761,6 @@ CounterMax 1</string>
     <wire>
       <p1 x="-3000" y="-260"/>
       <p2 x="-3000" y="-60"/>
-    </wire>
-    <wire>
-      <p1 x="-3900" y="280"/>
-      <p2 x="-3900" y="320"/>
     </wire>
     <wire>
       <p1 x="-1600" y="640"/>
@@ -2860,10 +2835,6 @@ CounterMax 1</string>
       <p2 x="-3920" y="820"/>
     </wire>
     <wire>
-      <p1 x="-3920" y="260"/>
-      <p2 x="-3920" y="500"/>
-    </wire>
-    <wire>
       <p1 x="-980" y="-400"/>
       <p2 x="-980" y="-160"/>
     </wire>
@@ -2920,6 +2891,10 @@ CounterMax 1</string>
       <p2 x="-2400" y="460"/>
     </wire>
     <wire>
+      <p1 x="-3940" y="280"/>
+      <p2 x="-3940" y="320"/>
+    </wire>
+    <wire>
       <p1 x="-1380" y="-400"/>
       <p2 x="-1380" y="-340"/>
     </wire>
@@ -2972,10 +2947,6 @@ CounterMax 1</string>
       <p2 x="-2800" y="580"/>
     </wire>
     <wire>
-      <p1 x="-3700" y="240"/>
-      <p2 x="-3700" y="260"/>
-    </wire>
-    <wire>
       <p1 x="-1400" y="640"/>
       <p2 x="-1400" y="740"/>
     </wire>
@@ -3012,6 +2983,10 @@ CounterMax 1</string>
       <p2 x="-3960" y="720"/>
     </wire>
     <wire>
+      <p1 x="-3960" y="260"/>
+      <p2 x="-3960" y="500"/>
+    </wire>
+    <wire>
       <p1 x="-1020" y="-420"/>
       <p2 x="-1020" y="-160"/>
     </wire>
@@ -3026,6 +3001,10 @@ CounterMax 1</string>
     <wire>
       <p1 x="-1920" y="-540"/>
       <p2 x="-1920" y="-520"/>
+    </wire>
+    <wire>
+      <p1 x="-1920" y="360"/>
+      <p2 x="-1920" y="580"/>
     </wire>
     <wire>
       <p1 x="-3200" y="500"/>
