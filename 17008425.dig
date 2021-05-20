@@ -1707,14 +1707,14 @@ CounterMax 1</string>
       <pos x="-2540" y="320"/>
     </visualElement>
     <visualElement>
-      <elementName>PullDown</elementName>
-      <elementAttributes/>
-      <pos x="-2720" y="680"/>
-    </visualElement>
-    <visualElement>
       <elementName>Not</elementName>
       <elementAttributes/>
       <pos x="-2900" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>PullUp</elementName>
+      <elementAttributes/>
+      <pos x="-2740" y="560"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -2296,14 +2296,14 @@ CounterMax 1</string>
     </wire>
     <wire>
       <p1 x="-2780" y="600"/>
-      <p2 x="-2720" y="600"/>
+      <p2 x="-2740" y="600"/>
     </wire>
     <wire>
       <p1 x="-2680" y="600"/>
       <p2 x="-2060" y="600"/>
     </wire>
     <wire>
-      <p1 x="-2720" y="600"/>
+      <p1 x="-2740" y="600"/>
       <p2 x="-2680" y="600"/>
     </wire>
     <wire>
@@ -2667,10 +2667,6 @@ CounterMax 1</string>
       <p2 x="-4000" y="620"/>
     </wire>
     <wire>
-      <p1 x="-2720" y="600"/>
-      <p2 x="-2720" y="680"/>
-    </wire>
-    <wire>
       <p1 x="-1700" y="600"/>
       <p2 x="-1700" y="620"/>
     </wire>
@@ -2753,6 +2749,10 @@ CounterMax 1</string>
     <wire>
       <p1 x="-4020" y="540"/>
       <p2 x="-4020" y="560"/>
+    </wire>
+    <wire>
+      <p1 x="-2740" y="560"/>
+      <p2 x="-2740" y="600"/>
     </wire>
     <wire>
       <p1 x="-2360" y="-260"/>
